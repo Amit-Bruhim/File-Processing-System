@@ -53,8 +53,12 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/Amit-Bruhim/File-Processing-System.git
 ```
+### 2. Navigate into the src folder
+```bash
+cd Chess-Simulator/src
+```
 
-### 2. Compile and Run the program using Make
+### 3. Compile and Run the program using Make
 ```bash
 make run
 ```
